@@ -1,5 +1,5 @@
-# datafun-01-utils
-First Python Project
+# datafun-04-ead
+Module 4 Python Project
 # Common commands:
 git add .
 git commit -m " "
